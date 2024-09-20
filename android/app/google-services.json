@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "488848224654",
+    "project_id": "apploja-465ad",
+    "storage_bucket": "apploja-465ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488848224654:android:dc0a2f68b03226849d74df",
+        "android_client_info": {
+          "package_name": "com.apploja.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5vchqC7lNQf7svKJQGthCIPPBMHfb03c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
