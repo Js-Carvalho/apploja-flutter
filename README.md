@@ -20,3 +20,4 @@ Projeto para iniciar os aprendizados com Flutter.
 
 6. Dê um ID de aplicação Android (ou nome de pacote) que pretenderá utilizar
 
+# apploja-flutter
